@@ -17,3 +17,4 @@
  
 >[Dubbo 百科]( https://baike.baidu.com/item/Dubbo/18907815?fr=aladdin ) 
  
+>[本地安装zookeeper]( https://blog.csdn.net/xu180/article/details/105235397 )
